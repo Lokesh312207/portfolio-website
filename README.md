@@ -30,26 +30,6 @@ It is fully responsive and styled using CSS, with a clean, professional layout.
 
 ---
 
-## 📁 Folder Structure
-my-portfolio/
-├── public/
-│ ├── index.html
-│ └── lokesh.jpg
-├── src/
-│ ├── components/
-│ │ ├── Header.js
-│ │ ├── About.js
-│ │ ├── Skills.js
-│ │ ├── Projects.js
-│ │ ├── Contact.js
-│ │ └── Footer.js
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
-├── package.json
-├── README.md
-└── .gitignore
-
 ## 📸 Screenshots
 
 > Store these images in a /screenshots/ folder inside your root project and update if needed.
